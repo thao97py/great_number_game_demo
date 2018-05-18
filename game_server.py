@@ -10,7 +10,7 @@ def game_interface():
 
 @app.route('/process', methods=['POST'])
 def compare():
-    num=50
+    num=random.randrange(0,101)
     print num
     guess=request.form['numbers']
     print guess
