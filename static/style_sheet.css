@@ -1,0 +1,33 @@
+.redBox{
+    padding:70px;
+    width:190px;
+    border-radius:8px;
+    background: red;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    display: inline-block;
+    padding:30px;
+    width: 200px;
+    background: rgb(235, 235, 83);
+    margin:30px;
+}
+div{
+    margin:30px;
+    background: green;
+    display: inline-block;
+    padding:70px;
+    width:160px;
+    border-radius:8px;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    box-shadow: 2px 5px rgb(22, 22, 22);
+    border: 1px solid black;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
